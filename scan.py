@@ -1,4 +1,4 @@
-import hackrf
+import pyhackrf as hackrf
 
 # Create a HackRF instance
 hackrf = hackrf.HackRF()
